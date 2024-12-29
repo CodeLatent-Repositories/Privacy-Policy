@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.button-size{
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 5px;
+    font-size: large;
+    font-weight: 500;
+}
+.button-size:hover{
+    background-color: white;
+    color: black;
+    transition: all 400ms ease-in-out;
+}
+
+footer div{
+    display: flex;
+    justify-content: center;
+  }
+  
+  footer img{
+    max-width: 2rem; 
+    padding-left: 3px;
+  }
+  
+  footer p{
+    text-align: center;
+    margin-top: 0px;
+    color: rgb(96, 95, 95);
+    font-size: small;
+  }
+
+  footer{
+    padding-top: 2rem;
+    padding-bottom:2rem;
+    place-items: center;
+  }
+
+  #CourseImg{
+    width: 50vh;
+  }

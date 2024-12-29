@@ -1,0 +1,16 @@
+footer div{
+  display: flex;
+  justify-content: center;
+}
+
+footer img{
+  max-width: 2rem; 
+  padding-left: 3px;
+}
+
+footer p{
+  text-align: center;
+  margin-top: 0px;
+  color: rgb(96, 95, 95);
+  font-size: small;
+}
