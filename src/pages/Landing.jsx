@@ -5,7 +5,7 @@ import { Dialog, DialogPanel } from '@headlessui/react'
 import {Bars3Icon, XMarkIcon} from '@heroicons/react/24/outline'
 
 const navigation = [
-  { name: 'Home', href: '#' },
+  { name: 'Home', href: 'https://codelatent-home.netlify.app/' },
   { name: 'About Us', href: '#' },
   { name: 'Course', href: '#' },
   { name: 'Get Started', href: '#' },
